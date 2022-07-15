@@ -5,7 +5,8 @@ from src.schemas.schemas import User, UserSimple, LoginUser, LoginSucess
 from src.infra.sqlalchemy.config.database import get_db 
 from src.infra.sqlalchemy.repositories.user import RepositorieUser
 from src.infra.providers import hash_provider, token_provider
-from src.routers.utils import get_user_on, delete_user
+from src.utils.user import get_user_on, delete_user
+
 
 router = APIRouter()
 
