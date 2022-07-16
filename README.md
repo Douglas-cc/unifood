@@ -24,3 +24,9 @@ $ virtualenv venv -p python3
 $ source venv/bin/activate
 $ pip install -r requirements.txt
 ```
+
+# Executar projeto
+Dentro da raiz do projeto onde estar o server.py:
+```bash
+uvicorn server:app --reload
+```
