@@ -2,7 +2,9 @@
 
 É MVP de API RESTFull que tem como objetivo de gerenciar o fluxo de estoque de produtos, controle de usuarios e realização de pedidos e compra.
 
-# 
+# Coisas usadas
+No projeto busquei deixar o codigo fonte o mais clean possivel, além de separar as dependencias e atribuições por pastar e usar algums patters
+como repositorys, schemas, models e assim por diante bem definidos e também adicioanar algumas boas praticas de segurança como token e criptografica de senhas, middlewares e tasks para monitorar o tempo das requisições.
 
 # Tecnologias usadas
 
