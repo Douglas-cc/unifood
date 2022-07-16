@@ -1,4 +1,4 @@
-# UNIFOOD - seu app de comida universitário
+# UNIFOOD - seu app de delyvery universitário
 
 É MVP de API RESTFull que tem como objetivo de gerenciar o fluxo de estoque de produtos, controle de usuarios e realização de pedidos e compra.
 
